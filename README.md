@@ -1,6 +1,6 @@
 ### <h1>Olá, eu sou o Gustavo Soares! 👋</h1>
 
-<h4>👨‍🎓 Sou estudante de Engenharia de Software<br>
+<h4>👨‍🎓 Estudante de Engenharia de Software<br>
 👨‍💻 Desenvolvedor Front-end </h4>
 
 <p align="center">
